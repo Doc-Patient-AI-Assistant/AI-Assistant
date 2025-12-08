@@ -1,0 +1,21 @@
+# ✅ Ignore virtual environment
+diarize_env/
+diarize_env/**
+
+# ✅ Ignore environment variables file (HF_TOKEN etc.)
+.env
+
+# ✅ Ignore all Python cache files
+__pycache__/
+**/__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# ✅ Ignore OS junk files
+.DS_Store
+Thumbs.db
+
+# ✅ Ignore VS Code settings (optional)
+.vscode/
+
