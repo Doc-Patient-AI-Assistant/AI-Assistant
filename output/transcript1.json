@@ -1,0 +1,1058 @@
+[
+  {
+    "speaker": "Docter",
+    "start": 0.005,
+    "end": 0.965,
+    "text": "what brings you here today?"
+  },
+  {
+    "speaker": "Patient",
+    "start": 1.885,
+    "end": 9.605,
+    "text": "Yeah, I have this paint in my chest. Okay, and where is the paint exactly?"
+  },
+  {
+    "speaker": "Docter",
+    "start": 10.905,
+    "end": 13.805,
+    "text": "over on the left side."
+  },
+  {
+    "speaker": "Docter",
+    "start": 14.145,
+    "end": 16.605,
+    "text": "Okay, and when did this paint"
+  },
+  {
+    "speaker": "Docter",
+    "start": 17.205,
+    "end": 19.885,
+    "text": "It started just 30 minutes ago."
+  },
+  {
+    "speaker": "Patient",
+    "start": 20.445,
+    "end": 23.705,
+    "text": "Okay, and did it just come on"
+  },
+  {
+    "speaker": "Docter",
+    "start": 24.465,
+    "end": 25.165,
+    "text": "you doing something"
+  },
+  {
+    "speaker": "Docter",
+    "start": 27.105,
+    "end": 29.805,
+    "text": "I was just showing the driveway,"
+  },
+  {
+    "speaker": "Patient",
+    "start": 30.745,
+    "end": 31.385,
+    "text": "it"
+  },
+  {
+    "speaker": "Patient",
+    "start": 34.265,
+    "end": 36.425,
+    "text": "Okay, and has"
+  },
+  {
+    "speaker": "Docter",
+    "start": 37.765,
+    "end": 38.505,
+    "text": "getting worse"
+  },
+  {
+    "speaker": "Docter",
+    "start": 39.085,
+    "end": 41.765,
+    "text": "over the last one half an hour?"
+  },
+  {
+    "speaker": "Patient",
+    "start": 42.685,
+    "end": 45.685,
+    "text": "just came on suddenly, and it's..."
+  },
+  {
+    "speaker": "Docter",
+    "start": 46.705,
+    "end": 48.265,
+    "text": "Sorry, yeah, the"
+  },
+  {
+    "speaker": "Docter",
+    "start": 48.485,
+    "end": 49.345,
+    "text": "has been there this whole"
+  },
+  {
+    "speaker": "Docter",
+    "start": 49.965,
+    "end": 50.485,
+    "text": "gotten worse"
+  },
+  {
+    "speaker": "Docter",
+    "start": 50.845,
+    "end": 50.865,
+    "text": "ever"
+  },
+  {
+    "speaker": "Docter",
+    "start": 50.985,
+    "end": 54.785,
+    "text": "since it started. Okay, and how would"
+  },
+  {
+    "speaker": "Patient",
+    "start": 55.445,
+    "end": 56.585,
+    "text": "paint? Is it kind of"
+  },
+  {
+    "speaker": "Patient",
+    "start": 56.745,
+    "end": 60.445,
+    "text": "an aching paint or is it a sharp or tightness kind of paint?"
+  },
+  {
+    "speaker": "Patient",
+    "start": 60.925,
+    "end": 61.525,
+    "text": "describe it?"
+  },
+  {
+    "speaker": "Patient",
+    "start": 62.465,
+    "end": 62.785,
+    "text": "dull,"
+  },
+  {
+    "speaker": "Docter",
+    "start": 62.645,
+    "end": 63.265,
+    "text": "dull, I feel"
+  },
+  {
+    "speaker": "Docter",
+    "start": 63.965,
+    "end": 64.645,
+    "text": "a"
+  },
+  {
+    "speaker": "Docter",
+    "start": 65.305,
+    "end": 68.865,
+    "text": "on my chest. And how"
+  },
+  {
+    "speaker": "Docter",
+    "start": 69.405,
+    "end": 70.505,
+    "text": "rate the paint right"
+  },
+  {
+    "speaker": "Patient",
+    "start": 71.485,
+    "end": 75.505,
+    "text": "of 0 to 10, or being the least someone of paint you've felt in your life, 10 being the"
+  },
+  {
+    "speaker": "Docter",
+    "start": 77.305,
+    "end": 80.745,
+    "text": "Seven. Seven? Okay."
+  },
+  {
+    "speaker": "Docter",
+    "start": 81.265,
+    "end": 85.165,
+    "text": "you had any similar episodes before? No, I've"
+  },
+  {
+    "speaker": "Patient",
+    "start": 85.565,
+    "end": 87.925,
+    "text": "any chest pain before."
+  },
+  {
+    "speaker": "Docter",
+    "start": 88.665,
+    "end": 89.705,
+    "text": "is the paint just"
+  },
+  {
+    "speaker": "Docter",
+    "start": 90.405,
+    "end": 91.005,
+    "text": "region"
+  },
+  {
+    "speaker": "Docter",
+    "start": 91.305,
+    "end": 93.525,
+    "text": "chest area that you mentioned or is it traveling"
+  },
+  {
+    "speaker": "Docter",
+    "start": 93.765,
+    "end": 98.005,
+    "text": "to any other part of your body? No, I'm kind of just feeling it right here"
+  },
+  {
+    "speaker": "Patient",
+    "start": 99.125,
+    "end": 101.185,
+    "text": "Okay,"
+  },
+  {
+    "speaker": "Patient",
+    "start": 101.425,
+    "end": 102.085,
+    "text": "is there"
+  },
+  {
+    "speaker": "Docter",
+    "start": 103.485,
+    "end": 107.205,
+    "text": "that makes the paint either get worse or go away, or"
+  },
+  {
+    "speaker": "Patient",
+    "start": 104.345,
+    "end": 104.845,
+    "text": "the paint"
+  },
+  {
+    "speaker": "Patient",
+    "start": 107.585,
+    "end": 108.225,
+    "text": "better?"
+  },
+  {
+    "speaker": "Docter",
+    "start": 110.965,
+    "end": 111.605,
+    "text": "a bit"
+  },
+  {
+    "speaker": "Docter",
+    "start": 112.065,
+    "end": 112.825,
+    "text": "if I'm"
+  },
+  {
+    "speaker": "Docter",
+    "start": 113.105,
+    "end": 116.545,
+    "text": "around, or when I was walking in here, I think it"
+  },
+  {
+    "speaker": "Patient",
+    "start": 117.705,
+    "end": 119.285,
+    "text": "worse, but do"
+  },
+  {
+    "speaker": "Docter",
+    "start": 120.405,
+    "end": 127.125,
+    "text": "make you any better since it's starting? Okay, and does it change it all from you changing positions"
+  },
+  {
+    "speaker": "Patient",
+    "start": 127.725,
+    "end": 129.445,
+    "text": "standing up or sitting down"
+  },
+  {
+    "speaker": "Docter",
+    "start": 130.645,
+    "end": 133.505,
+    "text": "I think it's a little bit worse"
+  },
+  {
+    "speaker": "Docter",
+    "start": 133.905,
+    "end": 135.085,
+    "text": "I'm laying"
+  },
+  {
+    "speaker": "Patient",
+    "start": 135.525,
+    "end": 137.505,
+    "text": "Okay,"
+  },
+  {
+    "speaker": "Patient",
+    "start": 138.405,
+    "end": 138.845,
+    "text": "pain"
+  },
+  {
+    "speaker": "Docter",
+    "start": 138.525,
+    "end": 139.065,
+    "text": "pain that"
+  },
+  {
+    "speaker": "Docter",
+    "start": 139.945,
+    "end": 143.845,
+    "text": "have you been having any other symptoms like a cough"
+  },
+  {
+    "speaker": "Docter",
+    "start": 144.785,
+    "end": 148.125,
+    "text": "breathing or any pain when you're breathing in or"
+  },
+  {
+    "speaker": "Patient",
+    "start": 151.785,
+    "end": 155.165,
+    "text": "felt a little bit short of"
+  },
+  {
+    "speaker": "Patient",
+    "start": 156.125,
+    "end": 156.545,
+    "text": "difficulty"
+  },
+  {
+    "speaker": "Patient",
+    "start": 157.285,
+    "end": 158.525,
+    "text": "since yesterday,"
+  },
+  {
+    "speaker": "Docter",
+    "start": 160.105,
+    "end": 163.645,
+    "text": "the pain started, but just"
+  },
+  {
+    "speaker": "Docter",
+    "start": 164.245,
+    "end": 164.905,
+    "text": "the difficulty"
+  },
+  {
+    "speaker": "Docter",
+    "start": 164.985,
+    "end": 166.045,
+    "text": "breathing."
+  },
+  {
+    "speaker": "Docter",
+    "start": 167.985,
+    "end": 168.645,
+    "text": "and"
+  },
+  {
+    "speaker": "Docter",
+    "start": 169.025,
+    "end": 169.925,
+    "text": "have"
+  },
+  {
+    "speaker": "Docter",
+    "start": 170.405,
+    "end": 176.585,
+    "text": "injured your chest or surrounding area at all, like from fall or anything like that?"
+  },
+  {
+    "speaker": "Docter",
+    "start": 177.025,
+    "end": 181.445,
+    "text": "I do play"
+  },
+  {
+    "speaker": "Patient",
+    "start": 182.105,
+    "end": 185.545,
+    "text": "and was tackled by another player yesterday,"
+  },
+  {
+    "speaker": "Docter",
+    "start": 186.345,
+    "end": 187.065,
+    "text": "my"
+  },
+  {
+    "speaker": "Docter",
+    "start": 187.425,
+    "end": 192.085,
+    "text": "chest felt fine after that. Okay, but"
+  },
+  {
+    "speaker": "Patient",
+    "start": 193.525,
+    "end": 195.505,
+    "text": "up. Yeah."
+  },
+  {
+    "speaker": "Patient",
+    "start": 196.125,
+    "end": 198.385,
+    "text": "Have you been"
+  },
+  {
+    "speaker": "Docter",
+    "start": 199.845,
+    "end": 200.625,
+    "text": "recently?"
+  },
+  {
+    "speaker": "Patient",
+    "start": 201.425,
+    "end": 201.825,
+    "text": "No,"
+  },
+  {
+    "speaker": "Docter",
+    "start": 204.245,
+    "end": 204.965,
+    "text": "has anyone"
+  },
+  {
+    "speaker": "Docter",
+    "start": 205.725,
+    "end": 206.465,
+    "text": "at"
+  },
+  {
+    "speaker": "Docter",
+    "start": 207.545,
+    "end": 210.405,
+    "text": "No, no."
+  },
+  {
+    "speaker": "Patient",
+    "start": 211.025,
+    "end": 211.645,
+    "text": "have you been"
+  },
+  {
+    "speaker": "Docter",
+    "start": 212.405,
+    "end": 213.925,
+    "text": "like nausea or vomiting or"
+  },
+  {
+    "speaker": "Docter",
+    "start": 214.105,
+    "end": 215.965,
+    "text": "any fever or chills?"
+  },
+  {
+    "speaker": "Docter",
+    "start": 216.385,
+    "end": 218.405,
+    "text": "No, but nausea"
+  },
+  {
+    "speaker": "Patient",
+    "start": 219.325,
+    "end": 219.965,
+    "text": "but"
+  },
+  {
+    "speaker": "Patient",
+    "start": 220.145,
+    "end": 221.545,
+    "text": "I do feel"
+  },
+  {
+    "speaker": "Docter",
+    "start": 222.845,
+    "end": 223.625,
+    "text": "today."
+  },
+  {
+    "speaker": "Docter",
+    "start": 224.125,
+    "end": 224.805,
+    "text": "Okay,"
+  },
+  {
+    "speaker": "Docter",
+    "start": 225.685,
+    "end": 227.625,
+    "text": "you measured your temperature at all?"
+  },
+  {
+    "speaker": "Docter",
+    "start": 227.725,
+    "end": 230.145,
+    "text": "I"
+  },
+  {
+    "speaker": "Patient",
+    "start": 231.565,
+    "end": 236.285,
+    "text": "and it was 38 degrees."
+  },
+  {
+    "speaker": "Docter",
+    "start": 237.025,
+    "end": 241.825,
+    "text": "Okay, and have you been having any kind of swelling"
+  },
+  {
+    "speaker": "Patient",
+    "start": 242.465,
+    "end": 242.885,
+    "text": "or"
+  },
+  {
+    "speaker": "Docter",
+    "start": 246.465,
+    "end": 247.165,
+    "text": "No"
+  },
+  {
+    "speaker": "Docter",
+    "start": 248.045,
+    "end": 252.725,
+    "text": "my legs. Have you been feeling tired"
+  },
+  {
+    "speaker": "Docter",
+    "start": 253.145,
+    "end": 253.825,
+    "text": "all, like increasingly"
+  },
+  {
+    "speaker": "Docter",
+    "start": 254.545,
+    "end": 258.205,
+    "text": "No, my energy has been good."
+  },
+  {
+    "speaker": "Docter",
+    "start": 258.545,
+    "end": 260.205,
+    "text": "Okay, have you been"
+  },
+  {
+    "speaker": "Patient",
+    "start": 260.925,
+    "end": 262.365,
+    "text": "thumping or palpitations"
+  },
+  {
+    "speaker": "Docter",
+    "start": 263.345,
+    "end": 264.005,
+    "text": "your heart has"
+  },
+  {
+    "speaker": "Docter",
+    "start": 264.705,
+    "end": 265.345,
+    "text": "all?"
+  },
+  {
+    "speaker": "Docter",
+    "start": 268.005,
+    "end": 271.125,
+    "text": "It does feel like it's beating faster right now. It usually only"
+  },
+  {
+    "speaker": "Patient",
+    "start": 271.765,
+    "end": 272.485,
+    "text": "this when"
+  },
+  {
+    "speaker": "Docter",
+    "start": 273.605,
+    "end": 275.985,
+    "text": "sports."
+  },
+  {
+    "speaker": "Patient",
+    "start": 276.405,
+    "end": 277.025,
+    "text": "Okay, and"
+  },
+  {
+    "speaker": "Docter",
+    "start": 277.785,
+    "end": 280.085,
+    "text": "any changes in your"
+  },
+  {
+    "speaker": "Patient",
+    "start": 280.505,
+    "end": 281.045,
+    "text": "all, any"
+  },
+  {
+    "speaker": "Docter",
+    "start": 281.785,
+    "end": 285.325,
+    "text": "No rashes. Okay,"
+  },
+  {
+    "speaker": "Patient",
+    "start": 286.065,
+    "end": 286.865,
+    "text": "had any cough"
+  },
+  {
+    "speaker": "Docter",
+    "start": 287.545,
+    "end": 289.865,
+    "text": "nose or sore throat, any kind"
+  },
+  {
+    "speaker": "Patient",
+    "start": 290.245,
+    "end": 290.725,
+    "text": "symptoms"
+  },
+  {
+    "speaker": "Docter",
+    "start": 291.245,
+    "end": 292.725,
+    "text": "the past month?"
+  },
+  {
+    "speaker": "Patient",
+    "start": 293.085,
+    "end": 293.685,
+    "text": "A few"
+  },
+  {
+    "speaker": "Docter",
+    "start": 294.465,
+    "end": 297.065,
+    "text": "I was a little"
+  },
+  {
+    "speaker": "Patient",
+    "start": 297.925,
+    "end": 298.445,
+    "text": "me,"
+  },
+  {
+    "speaker": "Docter",
+    "start": 299.045,
+    "end": 302.425,
+    "text": "that went away on its own. I haven't had any cough."
+  },
+  {
+    "speaker": "Docter",
+    "start": 305.225,
+    "end": 309.605,
+    "text": "you been feeling dizzy at all, or have you fainted?"
+  },
+  {
+    "speaker": "Patient",
+    "start": 310.305,
+    "end": 312.325,
+    "text": "No dizziness, and"
+  },
+  {
+    "speaker": "Docter",
+    "start": 312.865,
+    "end": 315.485,
+    "text": "I haven't fainted at all. Okay,"
+  },
+  {
+    "speaker": "Docter",
+    "start": 316.225,
+    "end": 319.445,
+    "text": "just a few more questions. Have you had any"
+  },
+  {
+    "speaker": "Patient",
+    "start": 320.285,
+    "end": 320.905,
+    "text": "made"
+  },
+  {
+    "speaker": "Patient",
+    "start": 321.385,
+    "end": 325.045,
+    "text": "any physician or anything like diabetes or high"
+  },
+  {
+    "speaker": "Docter",
+    "start": 327.385,
+    "end": 330.405,
+    "text": "Yeah, I've been told I have high"
+  },
+  {
+    "speaker": "Docter",
+    "start": 332.765,
+    "end": 333.285,
+    "text": "blood pressure."
+  },
+  {
+    "speaker": "Docter",
+    "start": 335.065,
+    "end": 335.685,
+    "text": "and do you take any"
+  },
+  {
+    "speaker": "Docter",
+    "start": 336.345,
+    "end": 340.405,
+    "text": "for these things? I"
+  },
+  {
+    "speaker": "Patient",
+    "start": 340.865,
+    "end": 341.305,
+    "text": "do take"
+  },
+  {
+    "speaker": "Docter",
+    "start": 342.085,
+    "end": 345.725,
+    "text": "medications for both blood pressure and"
+  },
+  {
+    "speaker": "Patient",
+    "start": 347.065,
+    "end": 353.005,
+    "text": "resubistatin, and miscedapral,"
+  },
+  {
+    "speaker": "Docter",
+    "start": 359.145,
+    "end": 361.745,
+    "text": "take a multivitamin."
+  },
+  {
+    "speaker": "Docter",
+    "start": 362.125,
+    "end": 365.225,
+    "text": "Okay, and do you have any allergies"
+  },
+  {
+    "speaker": "Docter",
+    "start": 365.485,
+    "end": 367.845,
+    "text": "medications at all? No"
+  },
+  {
+    "speaker": "Docter",
+    "start": 371.105,
+    "end": 371.765,
+    "text": "had all in"
+  },
+  {
+    "speaker": "Docter",
+    "start": 372.685,
+    "end": 375.445,
+    "text": "for any reason?"
+  },
+  {
+    "speaker": "Docter",
+    "start": 375.625,
+    "end": 376.505,
+    "text": "No hospitalizations."
+  },
+  {
+    "speaker": "Docter",
+    "start": 377.225,
+    "end": 377.785,
+    "text": "Any"
+  },
+  {
+    "speaker": "Patient",
+    "start": 377.385,
+    "end": 377.985,
+    "text": "Any"
+  },
+  {
+    "speaker": "Patient",
+    "start": 378.345,
+    "end": 378.925,
+    "text": "surgeries?"
+  },
+  {
+    "speaker": "Docter",
+    "start": 381.645,
+    "end": 388.645,
+    "text": "and within your family has anyone that passed away from a heart attack or any cancer that"
+  },
+  {
+    "speaker": "Patient",
+    "start": 388.905,
+    "end": 389.485,
+    "text": "the family?"
+  },
+  {
+    "speaker": "Docter",
+    "start": 390.465,
+    "end": 391.925,
+    "text": "No. Yeah,"
+  },
+  {
+    "speaker": "Docter",
+    "start": 392.345,
+    "end": 395.145,
+    "text": "okay. And currently right now,"
+  },
+  {
+    "speaker": "Patient",
+    "start": 395.425,
+    "end": 396.105,
+    "text": "you live"
+  },
+  {
+    "speaker": "Docter",
+    "start": 396.985,
+    "end": 399.605,
+    "text": "with someone and where do you live, like an apartment house?"
+  },
+  {
+    "speaker": "Docter",
+    "start": 401.785,
+    "end": 407.105,
+    "text": "I live in a house with my parents."
+  },
+  {
+    "speaker": "Patient",
+    "start": 406.525,
+    "end": 407.005,
+    "text": "parents."
+  },
+  {
+    "speaker": "Docter",
+    "start": 409.185,
+    "end": 409.885,
+    "text": "and"
+  },
+  {
+    "speaker": "Docter",
+    "start": 410.285,
+    "end": 412.925,
+    "text": "currently work? Yeah, I"
+  },
+  {
+    "speaker": "Patient",
+    "start": 413.505,
+    "end": 414.625,
+    "text": "a bus for the city."
+  },
+  {
+    "speaker": "Docter",
+    "start": 415.405,
+    "end": 419.025,
+    "text": "Okay. And in"
+  },
+  {
+    "speaker": "Patient",
+    "start": 419.545,
+    "end": 420.725,
+    "text": "routine,"
+  },
+  {
+    "speaker": "Docter",
+    "start": 421.525,
+    "end": 423.065,
+    "text": "you get enough exercise"
+  },
+  {
+    "speaker": "Docter",
+    "start": 423.765,
+    "end": 425.605,
+    "text": "the week?"
+  },
+  {
+    "speaker": "Docter",
+    "start": 426.105,
+    "end": 430.685,
+    "text": "usually on Sundays I'll go for a run. Okay."
+  },
+  {
+    "speaker": "Patient",
+    "start": 431.425,
+    "end": 436.025,
+    "text": "about your diet? How's your diet, like, just regularly?"
+  },
+  {
+    "speaker": "Patient",
+    "start": 440.205,
+    "end": 442.285,
+    "text": "I feel like it's"
+  },
+  {
+    "speaker": "Docter",
+    "start": 443.565,
+    "end": 448.845,
+    "text": "balanced overall. I might eat"
+  },
+  {
+    "speaker": "Patient",
+    "start": 449.365,
+    "end": 451.145,
+    "text": "out a little bit too often,"
+  },
+  {
+    "speaker": "Docter",
+    "start": 452.465,
+    "end": 453.845,
+    "text": "to eat as many vegetables as"
+  },
+  {
+    "speaker": "Docter",
+    "start": 456.145,
+    "end": 461.345,
+    "text": "And do you smoke cigarettes at all? I do, yes."
+  },
+  {
+    "speaker": "Patient",
+    "start": 461.745,
+    "end": 462.345,
+    "text": "I've"
+  },
+  {
+    "speaker": "Docter",
+    "start": 463.045,
+    "end": 464.505,
+    "text": "for the last 20"
+  },
+  {
+    "speaker": "Patient",
+    "start": 465.005,
+    "end": 468.565,
+    "text": "roughly. Okay, how much do you smoke on an"
+  },
+  {
+    "speaker": "Docter",
+    "start": 470.725,
+    "end": 472.505,
+    "text": "About a half a"
+  },
+  {
+    "speaker": "Patient",
+    "start": 472.845,
+    "end": 474.345,
+    "text": "a pack a day."
+  },
+  {
+    "speaker": "Patient",
+    "start": 474.545,
+    "end": 475.905,
+    "text": "And"
+  },
+  {
+    "speaker": "Docter",
+    "start": 476.745,
+    "end": 479.585,
+    "text": "No alcohol."
+  },
+  {
+    "speaker": "Patient",
+    "start": 480.825,
+    "end": 482.025,
+    "text": "And any"
+  },
+  {
+    "speaker": "Docter",
+    "start": 482.865,
+    "end": 487.985,
+    "text": "drugs like marijuana? No"
+  },
+  {
+    "speaker": "Patient",
+    "start": 488.665,
+    "end": 493.085,
+    "text": "But I have used a crystal meth in the past."
+  },
+  {
+    "speaker": "Patient",
+    "start": 494.665,
+    "end": 495.165,
+    "text": "Okay."
+  },
+  {
+    "speaker": "Docter",
+    "start": 494.965,
+    "end": 501.365,
+    "text": "And when was the last time that you used crystal meth?"
+  },
+  {
+    "speaker": "Docter",
+    "start": 501.485,
+    "end": 503.405,
+    "text": "Six days ago."
+  },
+  {
+    "speaker": "Patient",
+    "start": 501.845,
+    "end": 502.285,
+    "text": "days ago."
+  },
+  {
+    "speaker": "Patient",
+    "start": 503.805,
+    "end": 504.365,
+    "text": "days ago?"
+  },
+  {
+    "speaker": "Docter",
+    "start": 504.665,
+    "end": 505.345,
+    "text": "Okay."
+  },
+  {
+    "speaker": "Docter",
+    "start": 505.665,
+    "end": 508.145,
+    "text": "how often do you use crystal meth?"
+  },
+  {
+    "speaker": "Docter",
+    "start": 509.805,
+    "end": 510.445,
+    "text": "I"
+  },
+  {
+    "speaker": "Docter",
+    "start": 510.945,
+    "end": 513.505,
+    "text": "say a couple of times a"
+  },
+  {
+    "speaker": "Patient",
+    "start": 514.345,
+    "end": 514.865,
+    "text": "A"
+  },
+  {
+    "speaker": "Docter",
+    "start": 515.345,
+    "end": 518.565,
+    "text": "month? Okay. All right. And for how"
+  },
+  {
+    "speaker": "Docter",
+    "start": 518.845,
+    "end": 520.185,
+    "text": "have you been using crystal"
+  },
+  {
+    "speaker": "Patient",
+    "start": 522.345,
+    "end": 523.345,
+    "text": "For the"
+  },
+  {
+    "speaker": "Patient",
+    "start": 524.805,
+    "end": 529.885,
+    "text": "years. Seven years? Okay. All right. Thank you."
+  }
+]

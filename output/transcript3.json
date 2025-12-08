@@ -1,0 +1,128 @@
+[
+  {
+    "speaker": "SPEAKER_00",
+    "start": 0.64,
+    "end": 15.0,
+    "text": "morning. Please have a seat. What brings you in today? Good morning, doctor. I've been having a persistent headache for the past four days, and it's not getting better. I see. Can you describe the headache? Is it sharp, throbbing, or dull?"
+  },
+  {
+    "speaker": "SPEAKER_00",
+    "start": 15.24,
+    "end": 16.0,
+    "text": "It's mostly"
+  },
+  {
+    "speaker": "SPEAKER_01",
+    "start": 16.0,
+    "end": 22.01,
+    "text": "a throbbing pain, especially on the right side of my head. It usually starts in the morning and worsens by evening."
+  },
+  {
+    "speaker": "SPEAKER_00",
+    "start": 22.62,
+    "end": 30.28,
+    "text": "anything seem to trigger it? Bright lights, loud sounds, stress, or lack of sleep? Yes, definitely stress."
+  },
+  {
+    "speaker": "SPEAKER_00",
+    "start": 30.55,
+    "end": 30.99,
+    "text": "I've"
+  },
+  {
+    "speaker": "SPEAKER_01",
+    "start": 30.99,
+    "end": 33.1,
+    "text": "also been sleeping very late because of work."
+  },
+  {
+    "speaker": "SPEAKER_00",
+    "start": 34.2,
+    "end": 39.3,
+    "text": "Are you experiencing any nausea, dizziness, blood, vision, or sensitivity to light?"
+  },
+  {
+    "speaker": "SPEAKER_00",
+    "start": 39.62,
+    "end": 45.66,
+    "text": "I do feel slightly dizzy sometimes, and bright lights make it worse. No vomiting though."
+  },
+  {
+    "speaker": "SPEAKER_00",
+    "start": 45.81,
+    "end": 58.02,
+    "text": "right. Do you have a history of migraines, high blood pressure, or sinus issues? My mother has migraines. I don't have blood pressure problems that I know of, but I do get frequent colds."
+  },
+  {
+    "speaker": "SPEAKER_00",
+    "start": 58.4,
+    "end": 66.82,
+    "text": "Have you checked your blood pressure recently? Not in the last few months. Okay. Any fever, cough, or nasal congestion right now?"
+  },
+  {
+    "speaker": "SPEAKER_00",
+    "start": 67.22,
+    "end": 86.41,
+    "text": "I had a mild cold last week, but it's mostly gone. Are you currently taking any medications, painkillers or supplements? I've taken parasitamol twice in the last two days, but it only gives temporary relief. Do you spend long hours looking at screens? Yes. I work on my laptop for almost 10 hours a day."
+  },
+  {
+    "speaker": "SPEAKER_00",
+    "start": 86.82,
+    "end": 90.35,
+    "text": "That can definitely contribute. Also, how is your water intake?"
+  },
+  {
+    "speaker": "SPEAKER_00",
+    "start": 90.59,
+    "end": 90.99,
+    "text": "Honestly,"
+  },
+  {
+    "speaker": "SPEAKER_01",
+    "start": 90.99,
+    "end": 95.17,
+    "text": "not very good. I forget to drink water while working."
+  },
+  {
+    "speaker": "SPEAKER_00",
+    "start": 95.58,
+    "end": 102.2,
+    "text": "Dihydration and eye strain can worsen headaches, based on your symptoms, this could be a migraine or a tension type headache."
+  },
+  {
+    "speaker": "SPEAKER_00",
+    "start": 102.76,
+    "end": 107.55,
+    "text": "it something serious, doctor? At this stage, it doesn't appear serious. However,"
+  },
+  {
+    "speaker": "SPEAKER_00",
+    "start": 108.21,
+    "end": 114.86,
+    "text": "will still check your blood pressure and recommend a few basic tests if the pain continues. What should I do for now?"
+  },
+  {
+    "speaker": "SPEAKER_00",
+    "start": 115.42,
+    "end": 121.81,
+    "text": "I will prescribe a mild pain reliever and a medication to reduce nerve sensitivity. Also,"
+  },
+  {
+    "speaker": "SPEAKER_00",
+    "start": 122.52,
+    "end": 140.28,
+    "text": "get at least 7 to 8 hours a week, drink plenty of water, reduce screen time, avoid skipping meals. Do I need any scans? Not immediately. If the headache persists for more than two weeks or worse suddenly, then we will consider an MRI or a CT scan."
+  },
+  {
+    "speaker": "SPEAKER_00",
+    "start": 140.57,
+    "end": 141.54,
+    "text": "Okay, doctor."
+  },
+  {
+    "speaker": "SPEAKER_00",
+    "start": 141.94,
+    "end": 149.43,
+    "text": "I'm also recommending a basic blood test to rule out anemia and vitamin deficiency. That sounds fine."
+  }
+]
