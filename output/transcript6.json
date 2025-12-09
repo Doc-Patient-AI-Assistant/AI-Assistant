@@ -1,0 +1,92 @@
+[
+  {
+    "speaker": "SPEAKER_00",
+    "start": 0.65,
+    "end": 3.64,
+    "text": "morning. Please have a seat. What brings you here today?"
+  },
+  {
+    "speaker": "SPEAKER_01",
+    "start": 4.24,
+    "end": 9.87,
+    "text": "Good morning, doctor. I've been having a severe headaches since last night, along with dezenest and mild nausea."
+  },
+  {
+    "speaker": "SPEAKER_00",
+    "start": 10.16,
+    "end": 12.56,
+    "text": "Is the headache constant or does it come and go?"
+  },
+  {
+    "speaker": "SPEAKER_01",
+    "start": 13.23,
+    "end": 17.44,
+    "text": "It comes and goes, but gets worse when I move or look at bright light."
+  },
+  {
+    "speaker": "SPEAKER_00",
+    "start": 17.95,
+    "end": 20.82,
+    "text": "Do you have any fear, blurred vision or vomiting?"
+  },
+  {
+    "speaker": "SPEAKER_01",
+    "start": 21.38,
+    "end": 25.97,
+    "text": "No fever or vomiting, but my vision feels slightly disturbed during the headache."
+  },
+  {
+    "speaker": "SPEAKER_00",
+    "start": 26.53,
+    "end": 29.69,
+    "text": "Have you been sleeping properly and drinking enough water?"
+  },
+  {
+    "speaker": "SPEAKER_01",
+    "start": 29.96,
+    "end": 34.52,
+    "text": "I've been stressed with work and only sleeping about 4 hours a night."
+  },
+  {
+    "speaker": "SPEAKER_00",
+    "start": 34.93,
+    "end": 47.94,
+    "text": "That explains your symptoms. This appears to be migrant triggered by stress and poor sleep. I am prescribing a pain relief tablet twice a day after food and an anti-nausia tablet if required."
+  },
+  {
+    "speaker": "SPEAKER_01",
+    "start": 48.6,
+    "end": 50.84,
+    "text": "Are there any side effects I should worry about?"
+  },
+  {
+    "speaker": "SPEAKER_00",
+    "start": 51.35,
+    "end": 55.42,
+    "text": "You might feel slight drowsiness or avoid driving after taking the medicine."
+  },
+  {
+    "speaker": "SPEAKER_01",
+    "start": 56.21,
+    "end": 58.53,
+    "text": "doctor. Should I avoid screens?"
+  },
+  {
+    "speaker": "SPEAKER_00",
+    "start": 58.79,
+    "end": 65.75,
+    "text": "Yes, avoid mobile and laptop screens for at least two days also drink plenty of water and take proper rest."
+  },
+  {
+    "speaker": "SPEAKER_01",
+    "start": 65.75,
+    "end": 68.57,
+    "text": "Thank you for explaining everything clearly."
+  },
+  {
+    "speaker": "SPEAKER_00",
+    "start": 68.79,
+    "end": 73.18,
+    "text": "are welcome. If the headache becomes severe or persistent, visit immediately."
+  }
+]
